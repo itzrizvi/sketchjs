@@ -1,0 +1,26 @@
+/**  ====== DEFAULT CSS ======**/
+
+*{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+/**  ====== DEFAULT CSS ======**/
+
+header.head{
+	height: 550px;
+	width: 100%;
+	background-image: url("../images/cyberpunk.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: relative;
+}
+canvas{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
